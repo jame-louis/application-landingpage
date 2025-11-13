@@ -4,10 +4,10 @@ full_description: 'A more complete description of the mobile app<br>
 <br>With a lot of features:
 <br>- Feature 1
 <br>- Feature 2
-<br>- Feature 3
+<br>- Feature 3'
 android: https://jame-louis.github.io/application-landingpage/
 iOS: https://jame-louis.github.io/application-landingpage/
-web: https://jame-louis.github.io/application-landingpage/
+web: https://jame-louis.github.io/application-landingpage/ 
 screenshots:
   - 1.png
   - 2.png
