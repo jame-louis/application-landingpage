@@ -35,7 +35,7 @@ jobs:
 
       - name: Build site
         env:
-          PUBLIC_PATH: '/application-landingpage/'
+          PUBLIC_PATH: '/application-landingpage/assets/'
         run: npm run build
 
       - name: Upload artifact
