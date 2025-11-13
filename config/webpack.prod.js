@@ -11,7 +11,7 @@ module.exports = Merge(CommonConfig, {
   output: {
     filename: '[name]-[hash].bundle.js',
     path: path.resolve('assets'),
-    publicPath: '/assets/',
+    publicPath: process.env.PUBLIC_PATH || '/assets/',
   },
   optimization: {
     minimize: true,
